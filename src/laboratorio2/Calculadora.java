@@ -3,6 +3,7 @@
 	Ana Bartra 13643
 	Sergio Cancinos 13062 
 	Calculadora.java
+
 	Se encarga de revisar la cade y realizar las operaciones adem�s de utilizar la interfaz stack.java	
 */
 package laboratorio2;
